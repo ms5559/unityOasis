@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/MyScenes/TokenDisplay.unity
+  isLoaded: 1
+  isActive: 1
